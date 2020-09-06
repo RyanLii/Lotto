@@ -1,5 +1,7 @@
 # Lotto
 
+ ![image](https://github.com/RyanLii/Lotto/blob/master/image/demo.gif)
+
 ## Getting Started
 
 ### Run it locally
@@ -27,15 +29,13 @@ pod install
 
 3. Run the app
 
-# From Commond line
-
 ```
+# From Commond line
 npm start
 npm run ios
 ```
 
-# From Xcode
-
 ```
+# From Xcode
 open Lotto/ios/RSL.xcworkspace
 ```
