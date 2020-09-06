@@ -10,12 +10,12 @@
 git clone git@github.com:RyanLii/Lotto.git
 ```
 
-3. Install dependencies
+2. Install dependencies
 
 ```
 cd Lotto
 
-# Using npm 
+# Using npm
 npm install
 
 # Install Cocoapod
@@ -25,13 +25,17 @@ cd ios
 pod install
 ```
 
-4. Run the  app
+3. Run the app
+
 # From Commond line
+
 ```
 npm start
-npm run 
+npm run ios
 ```
+
 # From Xcode
+
 ```
 open Lotto/ios/RSL.xcworkspace
 ```
